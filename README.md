@@ -14,7 +14,7 @@
 ---
 
 ## About me
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Data & Business Analyst, I'm constantly learning and exploring new tools to improve my technical skills.
 - 💬 Ask me about my knowledge in SQL, Python (pandas, numpy), Tableau, and Power BI for data modeling and dashboard creation.
 - 🌱 I’m diving deeper into Data Analytics and Python.
 
