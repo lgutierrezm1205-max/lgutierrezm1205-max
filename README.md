@@ -18,7 +18,7 @@
 - 💬 Ask me about my knowledge in SQL, Python (pandas, numpy), Tableau, and Power BI for data modeling and dashboard creation.
 - 🌱 I’m diving deeper into Data Analytics and Python.
 
-## 🛠 &nbsp;Tech Skills
+### 🛠 &nbsp;Tech Skills
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
