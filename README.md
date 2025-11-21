@@ -8,8 +8,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Business%20Analyst;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Business%20Analyst;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80&font=Fira%20Code&center=true&width=440&height=45">
+  </a>
 </p>
+
 
 ---
 
